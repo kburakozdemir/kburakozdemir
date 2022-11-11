@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Mu github stats](https://github-readme-stats.vercel.app/api?username=kburakozdemir&count_private=true&theme=buefy&show_icons=true)](https://github.com/kburakozdemir)
+[![K. Burak Özdemir GitHub stats](https://github-readme-stats.vercel.app/api?username=kburakozdemir&count_private=true&theme=dracula&show_icons=true)](https://github.com/kburakozdemir)
 
 <!--
 **kburakozdemir/kburakozdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
